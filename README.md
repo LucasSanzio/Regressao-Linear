@@ -1,5 +1,4 @@
-# Regressao-Linear
-# Análise de Experiência vs. Salário
+# Regressão Linear - Análise de Experiência vs. Salário
 
 ## Descrição da Base de Dados
 A base de dados utilizada contém informações sobre a relação entre a experiência profissional (em meses) e o salário (em milhares de dólares). Para facilitar a análise, os dados foram convertidos para anos de experiência.
